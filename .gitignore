@@ -106,6 +106,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+final_env
+.final_venv
 
 # Spyder project settings
 .spyderproject
@@ -124,3 +126,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+logs/
+results/
+results_roberta_tuned/
+saved_models/
+saved_models_roberta_tuned/
+.ipynb_checkpoints/
+
+anaconda_projects/
+.virtual_documents/
